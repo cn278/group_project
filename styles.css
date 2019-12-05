@@ -10,7 +10,6 @@ a {
 }
 h1, h2 {
   text-align: center;
-  background-color: rgb(28, 45, 110)
 }
 h1 {
   color: rgb(189, 200, 244);
@@ -80,8 +79,7 @@ div.contrast {
  }
  div.top_banner {
    background-image: url("Pictures/team pic - 19:20 copy.jpg");
-   background-image: width: 200px;
-   background-color: rgb(28, 45, 110);
+   background-size: contain;
    margin-bottom: 5%;
    padding: 30px;
  }
