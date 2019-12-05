@@ -79,6 +79,8 @@ div.contrast {
    flex-direction: column;
  }
  div.top_banner {
+   background-image: url("Pictures/team pic - 19:20 copy.jpg");
+   background-image: width: 200px;
    background-color: rgb(28, 45, 110);
    margin-bottom: 5%;
    padding: 30px;
@@ -86,4 +88,5 @@ div.contrast {
 
  div.answer_1 {
    font-style: italic;
+   padding: 20px;
  }
