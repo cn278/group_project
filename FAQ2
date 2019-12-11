@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>University of Sussex - Women's Basketball</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="top_banner">
+
+    <img src="Pictures/71200111_1112069255669251_2857012305428742144_n.png" alt="logo" width="200px">
+    <hr>
+    </hr>
+    <h1>Women's Basketball Team</h1>
+
+</div>
+
+<h3>Frequently Asked Questions - FAQ</h3 >
+<p>
+  <ol>
+    <p>
+  <li> I would like to be part of your team! What do I need to do?</li>
+
+  <div class="answer_1">
+  "At the beginning of each academic year, we have tryouts where you can come along and try out for the team. Depending on our current squad and available spots, we will recruit new players. The number of new players we recruit varies from year to year and can't be fixed. If you make it on the team you will need to pay £80 for a membership to be able to play."
+</div>
+</p>
+<p>
+  <li> I love playing basketball, but I'd prefer more flexibility in my training sessions. Are there any other opportunities for me?</li>
+<div class="answer_1">
+"Sure! Participate in our active.US sessions! Cf. <a href="activeus.html">Active US</a>"
+</div>
+</p>
+<p>
+  <li> If I am successful at the tryouts, and like to join the team, to what will I commit to?</li>
+<div class="answer_1">
+  "After having paid the membership fee, training can start! All our members are required to attend two training sessions each week (Tuesday 6.30pm and Friday 7 pm at the Sussex Sports Centre) and games, which are being played on Wednesdays (time depends on the location and opposition)."
+</div>
+</p>
+<p>
+  <li> Do you organise socials?</li>
+<div class="answer_1">
+  "Of course we do! We're aiming to have one social each week."
+</div>
+</p>
+  <p>
+  <li> Why do you have this competitive selection process once a year, instead of just giving many people the chance of playing?</li>
+</p>
+<p>
+    <li> Do you only play against other universities, or also against non-student teams?</li>
+</p>
+<p>
+  <li> Do you play outdoors in summer?</li>
+</p>
+<p>
+  <li> What are the membership fees spent on?</li>
+</p>
+<p>
+  <li> Are you engaged in any community activities?</li>
+<div class="answer_1">
+    "Yes, for example we organised charity basketball tournaments in the past."
+</div>
+</p>
+  </ol>
+<h1>Any more questions? <a href="Contact us">Contact us!</a>
+</h1>
+</p>
+</body>
+</html>
